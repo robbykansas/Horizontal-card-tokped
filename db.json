@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name_product": "New MacBook Air 2020 13 inch M1 Chip 8 Core CPU/ 7 Core GPU/ 256GB SSD - Gold",
+      "price": 15200000,
+      "cashback": true,
+      "picture": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/11/18/9526550a-68e2-41b7-a649-e20b6b09a3b7.png",
+      "rating": 5,
+      "sold": 100
+    },
+    {
+      "id": "2",
+      "name_product": "ASUS TUF FX504GM-E4073T - Gun Metal",
+      "price": 15999000,
+      "cashback": false,
+      "discount": 8,
+      "picture": "https://images.tokopedia.net/img/cache/250-square/product-1/2019/1/14/27588935/27588935_ad944b94-26e5-4de5-bb5b-b9a7b89a6cdd_1000_1000.jpeg.webp",
+      "rating": 4.5,
+      "sold": 5
+    },
+    {
+      "id": "3",
+      "name_product": "Gigabyte Aero 15X V8 Core i7 - GTX 1070 8GB - 16GB - 512GB - Win10",
+      "price": 33964000,
+      "cashback": true,
+      "picture": "https://images.tokopedia.net/img/cache/250-square/product-1/2019/4/23/14737592/14737592_100a2af2-0a0c-465c-be05-fb6458f4b2f9_1000_1000.jpg.webp",
+      "rating": 4,
+      "sold": 10
+    },
+    {
+      "id": "4",
+      "name_product": "LENOVO SLIM 1 IP 1 ATHLON SILVER 3050 4GB 256SSD WINDOWS 10",
+      "price": 5099000,
+      "cashback": false,
+      "picture": "https://ecs7.tokopedia.net/img/cache/250-square/VqbcmM/2021/1/25/6bca5b72-78d7-4b2a-a703-70608df003ad.jpg.webp",
+      "rating": 5,
+      "sold": 100
+    },
+    {
+      "id": "5",
+      "name_product": "ASUS TUF GAMING A15 FX506II RYZEN 7 4800H 8GB 512GB GTX1650Ti 4GB W10",
+      "price": 15591000,
+      "cashback": true,
+      "picture": "https://ecs7.tokopedia.net/img/cache/500-square/VqbcmM/2021/1/31/6bf284b3-c39f-4a00-af80-f30dabb435bd.jpg.webp",
+      "rating": 5,
+      "sold": 100
+    },
+    {
+      "id": "6",
+      "name_product": "MSI Modern 14 B11SB [9S7-14D214-220] i5-1135G7 8GB 512GB MX450 2GB",
+      "price": 12999000,
+      "cashback": false,
+      "discount": 7,
+      "picture": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/10/26/4c9ee144-7f97-4661-8c82-5e6b3c3cebf3.jpg.webp",
+      "rating": 5,
+      "sold": 100
+    }
+  ]
+}
